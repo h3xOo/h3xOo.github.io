@@ -12,7 +12,8 @@ github_username:  h3xOo
 markdown: kramdown
 
 collections:
-  - subpages
+  subpages:
+    output: true
 
 # Build settings
 theme: minima
