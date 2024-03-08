@@ -1,3 +1,6 @@
+---
+permalink: /foo/
+---
 
 Baltic Defense
 ==============

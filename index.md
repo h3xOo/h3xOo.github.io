@@ -8,7 +8,7 @@ It’s important for any chess player to figure out what type of strategy they l
 
 If you would like to filter the openings by a specific move you can click the move below:
 
-- [Albin Counter-Gambit](_openings/Albin-counter-gambit.md)
+- [Albin Counter-Gambit](<_openings/Albin-Counter-Gambit.md>)
 - [Alekhine Defense](_openings/Alekhine-Defense.md)
 - [Apocalypse Attack](_openings/Apocalypse-Attack.md)
 - [Baltic Defense](_openings/Baltic-Defense.md)
