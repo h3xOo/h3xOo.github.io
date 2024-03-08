@@ -14,15 +14,15 @@ markdown: kramdown
 collections:
   openings:
     output: true
-    permalink: /:collection/:name:output_ext
+    # permalink: /:collection/:name:output_ext
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
 
-# relative_links:
-#   enabled:     true
+relative_links:
+  enabled: false
 #   collections: true
 
 # Exclude from processing.

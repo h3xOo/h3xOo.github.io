@@ -1,8 +1,3 @@
----
-title: Albin Counter Gambit
-permalink: "/openings/albin-counter-gambit"
----
-
 Albin Counter-Gambit
 ====================
 
