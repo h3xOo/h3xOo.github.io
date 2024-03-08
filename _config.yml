@@ -11,18 +11,19 @@ github_username:  h3xOo
 
 markdown: kramdown
 
-# collections:
-#   subpages:
-#     output: true
+collections:
+  subpages:
+    output: true
+    permalink: /subpages/:name.html
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
 
-# relative_links:
-#   enabled:     true
-#   collections: true
+relative_links:
+  enabled:     true
+  collections: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
