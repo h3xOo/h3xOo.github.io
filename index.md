@@ -95,3 +95,5 @@ If you would like to filter the openings by a specific move you can click the mo
 - [Vienna Game](<_subpages/Vienna-Game.md>)
 - [Wayward Queen Attack](<_subpages/Wayward-Queen-Attack.md>)
 - [Wing Gambit](<_subpages/Wing-Gambit.md>)
+
+akghaghajghajghkjahkjgh
