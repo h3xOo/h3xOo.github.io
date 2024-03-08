@@ -1,4 +1,5 @@
 ---
+title: Albin Counter Gambit
 permalink: "/openings/albin-counter-gambit"
 ---
 
