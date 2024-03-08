@@ -10,21 +10,20 @@ url: https://h3xoo.github.io
 github_username:  h3xOo
 
 markdown: kramdown
-permalink: none
 
 collections:
   openings:
     output: true
-    permalink: none
+    permalink: /:collection/:name:output_ext
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
 
-relative_links:
-  enabled:     true
-  collections: true
+# relative_links:
+#   enabled:     true
+#   collections: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -1,8 +1,3 @@
----
-layout: default
-title: "Home"
----
-
 List of popular chess openings
 ==============================
 
@@ -14,7 +9,7 @@ Many beginners ask what they should study first. While it’s important to under
 It’s important for any chess player to figure out what type of strategy they like to play. Each opening has a very different play style. Once someone determines what type of game they like to play they can then learn other openings that lead to those type of games.
 
 If you would like to filter the openings by a specific move you can click the move below:
-- [Albin Counter-Gambit](/openings/albin-counter-gambit/)
+- [Albin Counter-Gambit](_openings/Albin-counter-gambit.md)
 - [Alekhine Defense](_openings/Alekhine-Defense.md)
 - [Apocalypse Attack](_openings/Apocalypse-Attack.md)
 - [Baltic Defense](_openings/Baltic-Defense.md)
