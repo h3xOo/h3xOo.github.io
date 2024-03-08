@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/latvian-gambit/
+---
 Latvian Gambit
 ==============
 

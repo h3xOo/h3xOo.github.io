@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/the-three-knights-game/
+---
 The Three Knights Game
 ======================
 

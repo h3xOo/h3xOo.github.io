@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/kings-indian-defense/
+---
 Kings Indian Defense
 ====================
 

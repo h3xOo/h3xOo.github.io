@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/schliemann-gambit/
+---
 Schliemann Gambit
 =================
 

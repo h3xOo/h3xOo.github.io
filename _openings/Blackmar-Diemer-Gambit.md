@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/blackmar-diemer-gambit/
+---
 Blackmar-Diemer Gambit
 ======================
 

@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/benoni-defense/
+---
 Benoni Defense
 ==============
 

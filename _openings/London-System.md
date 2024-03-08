@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/shit/
+---
 London System
 =============
 

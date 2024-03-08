@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/ruy-lopez/
+---
 Ruy Lopez
 =========
 

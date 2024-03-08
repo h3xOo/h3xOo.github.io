@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/calabrese-countergambit/
+---
 Calabrese Countergambit
 =======================
 

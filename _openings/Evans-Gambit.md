@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/evans-gambit/
+---
 Evans Gambit
 ============
 

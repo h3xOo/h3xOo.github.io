@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/tennison-gambit/
+---
 Tennison Gambit
 ===============
 

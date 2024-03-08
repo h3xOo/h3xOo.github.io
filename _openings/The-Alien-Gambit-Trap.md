@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/the-alien-gambit-trap/
+---
 The Alien Gambit Trap
 =====================
 

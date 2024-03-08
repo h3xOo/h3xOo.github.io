@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/Steinitz-lewis-trap/
+---
 Steinitz Lewis Trap
 ===================
 

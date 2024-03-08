@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/bishops-opening/
+---
 Bishop’s Opening
 ================
 

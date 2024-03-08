@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/birds-opening/
+---
 Bird’s Opening
 ==============
 

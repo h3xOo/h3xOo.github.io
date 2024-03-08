@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/elephant-gambit/
+---
 Elephant Gambit
 ===============
 

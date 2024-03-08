@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/rousseau-gambit/
+---
 Rousseau Gambit
 ===============
 

@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/petrov-defense/
+---
 Petrov Defense
 ==============
 

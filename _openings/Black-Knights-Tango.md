@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/black-knights-tango/
+---
 Black Knights Tango
 ===================
 

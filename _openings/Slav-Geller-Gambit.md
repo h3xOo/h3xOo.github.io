@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/slav-geller-gambit/
+---
 Slav Geller Gambit
 ==================
 

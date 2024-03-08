@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/steinitz-gambit/
+---
 Steinitz Gambit
 ===============
 

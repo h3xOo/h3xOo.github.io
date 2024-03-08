@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/napoleon-opening/
+---
 Napoleon Opening
 ================
 

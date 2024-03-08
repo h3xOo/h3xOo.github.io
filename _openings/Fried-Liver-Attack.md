@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/fried-liver-attack/
+---
 Fried Liver Attack
 ==================
 

@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/french-defense/
+---
 French Defense
 ==============
 

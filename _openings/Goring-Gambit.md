@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/goring-gambit/
+---
 Goring Gambit
 =============
 

@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/max-lange-attack/
+---
 Max Lange Attack
 ================
 

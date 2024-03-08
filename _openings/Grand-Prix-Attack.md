@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/grand-prix-attack/
+---
 Grand Prix Attack
 =================
 

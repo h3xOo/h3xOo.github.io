@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/portuguese-gambit/
+---
 Portuguese Gambit
 =================
 

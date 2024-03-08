@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/lolli-attack/
+---
 Lolli Attack
 ============
 

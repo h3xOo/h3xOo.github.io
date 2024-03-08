@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/trompowsky-attack/
+---
 Trompowsky Attack
 =================
 

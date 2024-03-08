@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/bogo-indian-defense/
+---
 Bogo Indian Defense
 ===================
 

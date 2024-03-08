@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/apocalypse-attack/
+---
 Apocalypse Attack
 =================
 

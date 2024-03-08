@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/jerome-gambit/
+---
 Jerome Gambit
 =============
 

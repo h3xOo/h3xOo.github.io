@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/staunton-gambit-accepted/
+---
 Staunton Gambit Accepted
 ========================
 

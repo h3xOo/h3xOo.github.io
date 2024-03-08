@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/reti-opening/
+---
 Reti Opening
 ============
 

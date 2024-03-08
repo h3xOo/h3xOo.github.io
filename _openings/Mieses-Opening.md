@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/mieses-opening/
+---
 Mieses Opening
 ==============
 

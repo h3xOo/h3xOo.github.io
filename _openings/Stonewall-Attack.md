@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/stonewall-attack/
+---
 Stonewall Attack
 ================
 

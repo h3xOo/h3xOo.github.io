@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/kings-indian-attack/
+---
 Kings Indian Attack
 ===================
 

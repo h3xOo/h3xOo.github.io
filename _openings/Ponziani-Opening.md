@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/ponziani-opening/
+---
 Ponziani Opening
 ================
 

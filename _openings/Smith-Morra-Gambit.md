@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/smith-morra-gambit/
+---
 Smith Morra Gambit
 ==================
 

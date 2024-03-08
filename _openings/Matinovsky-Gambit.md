@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/matinovsky-gambit/
+---
 Matinovsky Gambit
 =================
 

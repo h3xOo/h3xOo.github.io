@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/reti-gambit/
+---
 Reti Gambit
 ===========
 

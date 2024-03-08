@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/falkbeer-countergambit
+---
 Falkbeer Counter-Gambit
 =======================
 

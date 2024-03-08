@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/halloween-gambit/
+---
 Halloween Gambit
 ================
 

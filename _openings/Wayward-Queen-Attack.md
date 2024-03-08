@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/wayward-queen-attack/
+---
 Wayward Queen Attack
 ====================
 

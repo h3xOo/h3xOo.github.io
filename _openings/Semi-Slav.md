@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/semi-slav/
+---
 Semi-Slav
 =========
 

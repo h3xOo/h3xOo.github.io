@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/chigorin-defense/
+---
 Chigorin Defense
 ================
 

@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/veresov-attack/
+---
 Veresov Attack
 ==============
 

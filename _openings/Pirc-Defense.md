@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/pirc-defense/
+---
 Pirc Defense
 ============
 

@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/larsens-opening/
+---
 Larsens Opening
 ===============
 

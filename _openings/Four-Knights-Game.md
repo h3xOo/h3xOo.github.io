@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/four-knights-game/
+---
 Four Knights Game
 =================
 

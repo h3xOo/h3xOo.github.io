@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/alekhine-defense/
+---
 Alekhine Defense
 ================
 

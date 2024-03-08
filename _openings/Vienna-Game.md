@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/vienna-game/
+---
 Vienna Game
 ===========
 

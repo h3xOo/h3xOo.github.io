@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/queens-indian-defense/
+---
 Queens Indian Defense
 =====================
 

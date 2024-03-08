@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/nimzo-indian-defense/
+---
 Nimzo Indian Defense
 ====================
 

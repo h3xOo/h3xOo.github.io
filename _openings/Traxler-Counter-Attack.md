@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/traxler-counterattack/
+---
 Traxler Counter Attack
 ======================
 

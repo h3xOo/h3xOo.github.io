@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/caro-kann/
+---
 Caro-Kann
 =========
 

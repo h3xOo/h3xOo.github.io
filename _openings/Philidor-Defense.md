@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/philidor-defense/
+---
 Philidor Defense
 ================
 

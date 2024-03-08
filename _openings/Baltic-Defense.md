@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/baltic-defense/
+---
 Baltic Defense
 ==============
 

@@ -14,7 +14,6 @@ markdown: kramdown
 collections:
   openings:
     output: true
-    permalink: /:name/
 
 # Build settings
 theme: minima

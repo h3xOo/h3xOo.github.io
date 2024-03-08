@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/catalan-opening/
+---
 Catalan Opening
 ===============
 

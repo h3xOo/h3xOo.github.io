@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/queens-gambit/
+---
 Queens Gambit
 =============
 

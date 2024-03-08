@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/bowlder-attack/
+---
 Bowlder Attack
 ==============
 

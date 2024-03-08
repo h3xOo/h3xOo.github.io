@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/giuoco-piano/
+---
 Giuoco Piano
 ============
 

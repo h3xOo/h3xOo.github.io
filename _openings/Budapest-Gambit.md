@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/budapest-gambit/
+---
 Budapest Gambit
 ===============
 

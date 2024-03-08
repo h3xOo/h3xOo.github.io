@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/scotch-gambit/
+---
 Scotch Gambit
 =============
 

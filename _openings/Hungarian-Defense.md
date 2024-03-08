@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/hungarian-defense/
+---
 Hungarian Defense
 =================
 

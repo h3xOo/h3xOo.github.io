@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/english-opening/
+---
 English Opening
 ===============
 

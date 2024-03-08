@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/kings-gambit/
+---
 King’s Gambit
 =============
 

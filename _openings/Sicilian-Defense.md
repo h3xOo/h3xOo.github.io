@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/sicilian-defense/
+---
 Sicilian Defense
 ================
 

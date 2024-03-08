@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/muzio-gambit/
+---
 Muzio Gambit
 ============
 

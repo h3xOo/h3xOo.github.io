@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/wing-gambit/
+---
 Wing Gambit
 ===========
 

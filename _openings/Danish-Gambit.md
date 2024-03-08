@@ -1,4 +1,6 @@
-
+---
+permalink: /openings/danish-gambit/
+---
 Danish Gambit
 =============
 
