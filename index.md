@@ -1,4 +1,6 @@
+
 # List of popular chess openings
+================================
 
 The first few moves in the chess opening lays the foundation for every chess game. Most of the chess openings have been named and analyzed for hundreds of years. It is important if you want to be successful in chess to be familiar with some of the most popular openings and understand the theory behind the moves. In this section we cover everything you need to know about the most popular chess openings. The boards below will let you know if the opening is offensive or defensive. Once you find the opening you want, click to watch an in depth video and see some of the famous chess games that have been played using that opening.
 
@@ -8,7 +10,7 @@ It’s important for any chess player to figure out what type of strategy they l
 
 If you would like to filter the openings by a specific move you can click the move below:
 
-- [Albin Counter-Gambit](<_openings/Albin-Counter-Gambit.md>)
+- [Albin Counter-Gambit](_openings/Albin-Counter-Gambit.md)
 - [Alekhine Defense](_openings/Alekhine-Defense.md)
 - [Apocalypse Attack](_openings/Apocalypse-Attack.md)
 - [Baltic Defense](_openings/Baltic-Defense.md)
