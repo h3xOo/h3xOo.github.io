@@ -1,3 +1,6 @@
+---
+permalink: "/openings/albin-counter-gambit"
+---
 
 Albin Counter-Gambit
 ====================
