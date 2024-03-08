@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Home"
+---
+
 List of popular chess openings
 ==============================
 
