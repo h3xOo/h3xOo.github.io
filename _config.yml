@@ -11,15 +11,15 @@ github_username:  h3xOo
 
 markdown: kramdown
 
-collections:
-  openings:
-    output: true
-    permalink: "/:collection/:title"
+# collections:
+#   openings:
+#     output: true
+#     permalink: "/:collection/:title"
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+# theme: minima
+# plugins:
+#   - jekyll-feed
 
 # relative_links:
 #   enabled:     true
