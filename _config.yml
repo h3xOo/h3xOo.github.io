@@ -3,7 +3,7 @@ email: s.wisniewski1101@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   List of popular chess openings with images
   and short descriptions.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/awww/zad1" # the subpath of your site, e.g. /blog
 domain: h3xoo.github.io
 url: https://h3xoo.github.io
 github_username:  h3xOo
